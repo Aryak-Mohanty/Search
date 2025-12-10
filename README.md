@@ -188,29 +188,8 @@ Search_modernize/
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is released into the public domain under The Unlicense.You are free to copy, modify, distribute, or use the project for any purpose, without any conditions.
 
 ---
 
-## 🙏 Acknowledgments
-
-- [Google Custom Search API](https://developers.google.com/custom-search) - Search functionality
-- [Ollama](https://ollama.ai/) - Local LLM for AI summaries
-- [Bootstrap 5](https://getbootstrap.com/) - CSS framework
-- [Inter Font](https://fonts.google.com/specimen/Inter) - Typography
-
----
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Known Issues](#-known-issues--limitations) section
-2. Search existing [Issues](https://github.com/YOUR_USERNAME/Search_modernize/issues)
-3. Open a new issue with detailed information
-
----
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/YOUR_USERNAME">Your Name</a>
-</p>
+<hr>
