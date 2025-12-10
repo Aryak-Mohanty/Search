@@ -188,7 +188,7 @@ Search_modernize/
 
 ## 📄 License
 
-This project is released into the public domain under The Unlicense.You are free to copy, modify, distribute, or use the project for any purpose, without any conditions.
+This project is released into the public domain under The Unlicense. You are free to copy, modify, distribute, or use the project for any purpose, without any conditions.
 
 ---
 
