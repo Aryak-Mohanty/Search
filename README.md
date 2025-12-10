@@ -4,8 +4,7 @@ A modern, feature-rich search application powered by **Google Custom Search API*
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4.18-000000?style=flat-square&logo=express&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-
+![License](https://img.shields.io/badge/License-Unlicense-blue.svg)
 ---
 
 ## ✨ Features
