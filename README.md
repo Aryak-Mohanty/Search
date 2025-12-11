@@ -4,7 +4,8 @@ A modern, feature-rich search application powered by **Google Custom Search API*
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-4.18-000000?style=flat-square&logo=express&logoColor=white)
-![License](https://img.shields.io/badge/License-Unlicense-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
 ---
 
 ## ✨ Features
@@ -22,6 +23,17 @@ A modern, feature-rich search application powered by **Google Custom Search API*
 - 📐 **Resizable Panels** - Drag the divider to adjust search/results panel sizes
 - 🔄 **Floating Search Button** - Quick access to search on mobile devices
 - 📊 **Rich Search Insights** - View top sources, related topics, and content types
+
+---
+
+## 🎬 Live Demo
+
+> **Want to try it out?** This application is hosted on a local machine and made available via secure tunneling.
+> 
+> 📧 **Contact the owner for the current demo URL:**
+> - GitHub: [@Aryak-Mohanty](https://github.com/Aryak-Mohanty)
+> 
+> *Note: The demo is available when the server is running. The URL may change between sessions.*
 
 ---
 
@@ -182,13 +194,54 @@ Search_modernize/
 - [ ] 🔗 **Share Results** - Generate shareable search links
 - [ ] 🎨 **Custom Themes** - User-selectable color schemes
 
+### Technical Improvements
+- [ ] Rate limiting and caching to reduce API calls
+- [ ] Server-side result caching with Redis
+- [ ] WebSocket support for real-time updates
+- [ ] Docker containerization
+- [ ] Unit and integration tests
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. **Fork** the repository
+2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
+3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
+4. **Push** to the branch (`git push origin feature/amazing-feature`)
+5. **Open** a Pull Request
+
+Please ensure your code follows the existing style and includes appropriate comments.
 
 ---
 
 ## 📄 License
 
-This project is released into the public domain under The Unlicense. You are free to copy, modify, distribute, or use the project for any purpose, without any conditions.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-<hr>
+## 🙏 Acknowledgments
+
+- [Google Custom Search API](https://developers.google.com/custom-search) - Search functionality
+- [Ollama](https://ollama.ai/) - Local LLM for AI summaries
+- [Bootstrap 5](https://getbootstrap.com/) - CSS framework
+- [Inter Font](https://fonts.google.com/specimen/Inter) - Typography
+
+---
+
+## 📞 Support
+
+If you encounter any issues or have questions:
+
+1. Check the [Known Issues](#-known-issues--limitations) section
+2. Search existing [Issues](https://github.com/YOUR_USERNAME/Search_modernize/issues)
+3. Open a new issue with detailed information
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/YOUR_USERNAME">Your Name</a>
+</p>
